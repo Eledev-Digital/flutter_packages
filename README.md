@@ -1,2 +1,2 @@
 # flutter
-A repository for storing flutter packages
+A repository for storing Ele-Dev flutter packages
